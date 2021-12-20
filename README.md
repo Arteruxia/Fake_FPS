@@ -15,4 +15,4 @@ x,y is here! Drag the mouse to the desired point and put the value in the box.
 # ScreenShot
 ![image](https://user-images.githubusercontent.com/66860655/146695686-5d046dcd-8fb4-48ae-8e1d-1398f722826a.png)
 
-**this is not a ingame overlay**
+**this is not an ingame overlay**
