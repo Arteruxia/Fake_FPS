@@ -2,7 +2,9 @@
 original by: Kadi (https://github.com/lif0/FakeFPS-CSharp)
 
 >fps range is 0-9999
+
 >Repetitions 0 = unlimited
+
 >Speed 1000ms = 1s
 # How to find x,y position
 x,y is here! Drag the mouse to the desired point and put the value in the box.
